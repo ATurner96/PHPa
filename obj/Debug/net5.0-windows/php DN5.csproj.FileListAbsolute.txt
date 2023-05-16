@@ -1,0 +1,22 @@
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\php DN5.csproj.AssemblyReference.cache
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\php DN5_MarkupCompile.cache
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\php DN5_MarkupCompile.lref
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\php DN5.g.resources
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\php DN5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\php DN5.AssemblyInfoInputs.cache
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\php DN5.AssemblyInfo.cs
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\php DN5.csproj.CoreCompileInputs.cache
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\ref\php DN5.dll
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\php DN5.pdb
+C:\Users\Prussiani02\Desktop\php DN5\bin\Debug\net5.0-windows\php DN5.exe
+C:\Users\Prussiani02\Desktop\php DN5\bin\Debug\net5.0-windows\php DN5.deps.json
+C:\Users\Prussiani02\Desktop\php DN5\bin\Debug\net5.0-windows\php DN5.runtimeconfig.json
+C:\Users\Prussiani02\Desktop\php DN5\bin\Debug\net5.0-windows\php DN5.runtimeconfig.dev.json
+C:\Users\Prussiani02\Desktop\php DN5\bin\Debug\net5.0-windows\php DN5.dll
+C:\Users\Prussiani02\Desktop\php DN5\bin\Debug\net5.0-windows\ref\php DN5.dll
+C:\Users\Prussiani02\Desktop\php DN5\bin\Debug\net5.0-windows\php DN5.pdb
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\php DN5.dll
+C:\Users\Prussiani02\Desktop\php DN5\obj\Debug\net5.0-windows\php DN5.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Window x:Class="php_DN5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:php_DN5"
+        mc:Ignorable="d"
+        Title="Prussiani Horizonal Profile Adjust" Height="200" Width="300" ResizeMode="NoResize">
+    <Grid Background="LightGray">
+    <Grid VerticalAlignment="Top" Margin="20,20,20,0" Background="#e1e6e2" Width="260" Height="80">
+        <Grid VerticalAlignment="Top" Margin="20,20,20,0" Background="#e1e6e2" Width="240" Height="80">
+                    <Grid.RowDefinitions>
+                    <RowDefinition Height="30" />
+                    <RowDefinition Height="30" />
+                </Grid.RowDefinitions>
+        <Label x:Name="fileName" Content="Filename: " Grid.Row="0" />
+        <CheckBox x:Name="xProfile" Content="Profile Along X" Grid.Row="1" IsChecked="true"/>
+        </Grid>
+    </Grid>
+    <Grid VerticalAlignment="Bottom" Margin="0,0,20,20">
+        <Button x:Name="openFile" HorizontalAlignment="Right" Width="80" Height="30" Content="Open File" Click="OpenFile_Click"/>
+        <Button x:Name="saveFile" HorizontalAlignment="Right" Width="80" Height="30" Content="Save File" Click="SaveFile_Click" Visibility="hidden"/>
+    </Grid>
+    </Grid>
+</Window>
